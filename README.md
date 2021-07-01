@@ -9,6 +9,6 @@ https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_163.pdf
 
 Please cite
 
-Wan, Q., Crossley, S.A., Banawan, M., Balyan, R., Allen, L., & McNamara, D. S. (2021). Automated Claim Identification Using NLP Features in Student Argumentative Essays. Proceedings of the 14th International Conference on Educational Data Mining (EDM).
+Wan, Q., Crossley, S.A., Banawan, M., Balyan, R., Tian, Y., McNamara, D. S., & Allen, L. (2021). Automated Claim Identification Using NLP Features in Student Argumentative Essays. Proceedings of the 14th International Conference on Educational Data Mining (EDM).
 
 If used
